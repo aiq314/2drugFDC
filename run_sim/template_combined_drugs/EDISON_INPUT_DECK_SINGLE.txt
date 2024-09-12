@@ -1,0 +1,17 @@
+Celltype = 0
+Is_Dutta = 1
+Is_Using_Output = 1 
+Basic_Cycle_Length = 2000.0
+Number_of_Pacing = 1000
+Time_Step = 0.5
+Write_Step = 2.0
+Inet_Vm_Threshold = -88.0
+Drug_Name_A = bepridil
+Drug_Name_B = sotalol
+Cmax_A = 33
+Cmax_B = 14690
+Radius = 0,1
+Angles = 0,90
+Is_DDIs_LA = 0
+Is_Syntopic = 0
+Is_Cvar = 0
